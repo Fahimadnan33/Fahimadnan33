@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fahimadnan33
 - 👀 I’m interested in ...web development,,
-- I'm a professional
+- I'm a professional web development 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
